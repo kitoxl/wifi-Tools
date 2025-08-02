@@ -41,7 +41,7 @@ WiFi Scanner v6.0 adalah alat canggih untuk analisis jaringan WiFi yang dikemban
 ```bash
 pkg update && pkg upgrade
 pkg install git python
-git clone https://github.com/username/wifi-scanner.git
+git clone https://github.com/kitoxl/wifi-Tools/tree/main
 cd wifi-scanner
 pip install rich
 python wifi_scanner.py
