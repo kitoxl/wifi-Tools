@@ -42,9 +42,9 @@ WiFi Scanner v6.0 adalah alat canggih untuk analisis jaringan WiFi yang dikemban
 pkg update && pkg upgrade
 pkg install git python
 git clone https://github.com/kitoxl/wifi-Tools.git
-cd wifi-scanner
+cd wifi-Tools
 pip install rich
-python wifi_scanner.py
+python wifi.py
 ```
 
 ## Penggunaan
@@ -53,7 +53,7 @@ Setelah menjalankan aplikasi, Anda akan disajikan dengan menu interaktif:
 
 ```
 ╔═╗╔═╗╔═╗╦═╗╔═╗╔╦╗  
-╚═╗║╣ ║  ╠╦╝║╣  ║    
+╚═╗║╣ ║  ╠╦╝║╣  ║  ║  
 ╚═╝╚═╝╚═╝╩╚═╚═╝ ╩   
 
 ::=========[ ☠ WIFI SCANNER v6.0 ☠ ]=========::
